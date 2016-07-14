@@ -7,8 +7,6 @@ Bundle-ManifestVersion: 2
 Bundle-Name: cp30_jar_extension Bundle
 Bundle-SymbolicName: cp30_extension
 Bundle-Version: 1.0.0.SNAPSHOT
-Created-By: Apache Maven Bundle Plugin
 Import-Package: com.mysql.jdbc
 Fragment-Host: wrap_file__home_pfry_Software_jboss-fuse-6.2.1.redhat-084
  _system_c3p0_c3p0_0.9.1.2_c3p0-0.9.1.2.jar
-Tool: Bnd-2.3.0.201405100607
